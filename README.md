@@ -106,6 +106,3 @@ ruff format .
 * Ticket IDs are generated using the current list length.
 
 Persistent database storage will be added later in the project.
-=======
-# ticket-intelligence-api
->>>>>>> eeb31c028c0be8b752633587aa90f7d3e7ffcd51
