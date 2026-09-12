@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ticket Intelligence API
 
 A beginner FastAPI project for creating and retrieving support tickets. The project currently stores tickets in memory and demonstrates validation, HTTP status codes, automated testing, and API documentation.
@@ -105,3 +106,6 @@ ruff format .
 * Ticket IDs are generated using the current list length.
 
 Persistent database storage will be added later in the project.
+=======
+# ticket-intelligence-api
+>>>>>>> eeb31c028c0be8b752633587aa90f7d3e7ffcd51
